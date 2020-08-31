@@ -1,0 +1,2 @@
+forgotpassword reset
+image capture half screen
